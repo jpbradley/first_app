@@ -1,3 +1,3 @@
 # Ruby Tutorial - first_app
 
-Jason Bradley
+This was created by [Jason Bradley]
